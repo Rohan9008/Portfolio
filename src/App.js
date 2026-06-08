@@ -89,14 +89,16 @@ export default function Portfolio() {
             MySQL database.
           </p>
           <div className="space-x-4">
+           <a
+  href="https://github.com/Rohan9008/Portfolio"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-blue-500 px-4 py-2 rounded-lg hover:bg-blue-400"
+>
+  Live Demo
+</a>
             <a
-              href="#"
-              className="bg-blue-500 px-4 py-2 rounded-lg hover:bg-blue-400"
-            >
-              Live Demo
-            </a>
-            <a
-              href="https://github.com/Rohan9008"
+              href="https://github.com/Rohan9008/Portfolio"
               className="bg-gray-700 px-4 py-2 rounded-lg hover:bg-gray-600"
             >
               GitHub
